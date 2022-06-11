@@ -1,2 +1,2 @@
 # Tutor-android-app
-This is another version of tuttor application.
+This is another version of tutor application.
